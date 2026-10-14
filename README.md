@@ -23,6 +23,7 @@
 ## 查看报告
 
 - [Markdown 版](Ai-Capex-Supercycle-Funding-Loop-Solvency-Breakpoint-ZH.md)
+- [PPT 版](Ai-Capex-Supercycle-Funding-Loop-Solvency-Breakpoint-ZH.pptx)
 
 ## 版权声明
 
